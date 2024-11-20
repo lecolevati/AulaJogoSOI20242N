@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AulaJogoSOI20242N</string>
+    <string name="numero">Digite um número</string>
+    <string name="jogar">Jogar</string>
+    <string name="reinicio">Reiniciar</string>
+    <string name="maior">O valor é maior</string>
+    <string name="menor">O valor é menor</string>
+    <string name="acertou">Acertou o valor:</string>
+    <string name="parabens">Parabéns</string>
+    <string name="erro_input">Digite um valor !!!</string>
+</resources>
